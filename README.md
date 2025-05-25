@@ -1,3 +1,12 @@
+![image](https://github.com/user-attachments/assets/a5fcf70c-119b-4202-84fc-bef82cf673da)
+![image](https://github.com/user-attachments/assets/8367e930-9186-47b6-a899-8f96e124125f)
+![image](https://github.com/user-attachments/assets/d9a36d15-65fe-4e91-909e-cf11c6233e49)
+
+
+# A pet adoption website made using React Router in order to achieve a single page app
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
